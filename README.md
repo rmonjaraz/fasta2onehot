@@ -16,7 +16,7 @@ Convert a fasta file with SNPs or DNA sequences and a txt file with populations 
 - Biopython 1.79
 
 ## License
-The code within this repository is available under a 3-clause BSD license. See the License.txt file for more information.
+The code within this repository is available under a 3-clause BSD license. See the LICENSE file for more information.
 
 ## Citation
 If you use this script for your own research, please provide the link to this software repository in your manuscript:
